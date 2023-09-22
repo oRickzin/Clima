@@ -6,7 +6,7 @@
 }
 
 body {
-  background: linear-gradient(180deg, rgb(34, 221, 81) 0%, #38becf 100%);
+  background: linear-gradient(180deg, #0A4D68 0%, #088395 100%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -21,7 +21,7 @@ body {
 }
 
 .container {
-  background-color: #323ee9;
+  background-color: #05BFDB;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding: 2rem;
   color: #fdfdfd;
@@ -49,8 +49,8 @@ body {
   padding: 0.8rem;
   min-width: 50px;
   margin-left: 8px;
-  background-color: #8dd0f5;
-  color: #fff;
+  background-color: #86fae3;
+  color: #000000;
   border: none;
   cursor: pointer;
   border-radius: 4px;
@@ -138,8 +138,8 @@ body {
   padding: 0.6rem 0.9rem;
   border-radius: 10rem;
   border: none;
-  background-color: #8dd0f5;
-  color: #fff;
+  background-color: #86fae3;
+  color: #000000;
   cursor: pointer;
   font-weight: bold;
   opacity: 0.8;
